@@ -323,3 +323,7 @@ Data Flow Summary
 4. Overview aggregates all domains into weighted executive posture scores.
 5. AI Agent route optionally sends compacted domain data to Azure OpenAI.
 ```
+
+## Disclaimer
+
+This project is a generalized and sanitized portfolio implementation inspired by enterprise automation scenarios. No proprietary company information, credentials, production configurations, or internal business logic are included.
