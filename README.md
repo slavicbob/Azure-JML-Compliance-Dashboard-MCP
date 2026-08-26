@@ -1,6 +1,6 @@
 # JML Compliance Dashboard (MCP)
 
-A production-style Identity Governance and Administration (IGA) dashboard focused on **Joiners, Movers, and Leavers (JML)** controls, built with **FastAPI + Microsoft Graph + React**.
+This repo outlines a production-style Identity Governance and Administration (IGA) dashboard focused on **Joiners, Movers, and Leavers (JML)** controls, built with **FastAPI + Microsoft Graph + React**.
 
 This project scans Microsoft Entra ID signals, computes compliance posture, surfaces audit evidence, and enables natural-language investigation through an Azure OpenAI-powered agent.
 
